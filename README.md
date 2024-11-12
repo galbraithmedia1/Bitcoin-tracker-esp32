@@ -2,6 +2,10 @@
 
 A beginner-friendly project that uses an ESP32 microcontroller and an SSD1306 OLED display to fetch and display real-time Bitcoin prices from the CoinGecko API.
 
+
+![esp-32 ![2](https://github.com/user-attachments/assets/ee2048d0-6321-4df8-91a1-df58e95eb8ac)
+
+
 ## Features
 - 🌟 Displays "Hello World" for initial setup.
 - 🌐 Connects to WiFi to fetch live Bitcoin prices.
